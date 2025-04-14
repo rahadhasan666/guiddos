@@ -68,6 +68,11 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ![App Screenshot](https://github.com/rahadhasan666/guiddos/blob/main/Screenshot_2025-04-14_02_42_36.png)
 
+📦 ddos-tool
+├── DDoS.py               # Main script with GUI and attack logic
+├── README.md          # Documentation
+└── requirements.txt   # Python dependencies
+
 
 ## License
 
