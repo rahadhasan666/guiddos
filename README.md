@@ -32,7 +32,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd DDoS
+  cd guiddos
 ```
 
 Install dependencies
